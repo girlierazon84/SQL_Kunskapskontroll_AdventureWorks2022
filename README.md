@@ -1,0 +1,2 @@
+# SQL_Kunskapskontroll_AdventureWorks2022
+SQL kunskapskontroll, AdventureWorks2022 Analys
